@@ -10,8 +10,7 @@ program, 2. Better assessments on if loans are going to business owners who woul
 and most importantly, 3. Increasing loan frequency and loan amounts to women entrepreneurs.
 
 ## Other Information
-For inquiries, please send to Yunfei Kevin Wang (the author) at keviny.wang@mail.utoronto.ca. Distribution, transmission or publication is strictly prohibited 
-without the express approval by the author.
+For inquiries, please send to Yunfei Kevin Wang (the author) at keviny.wang@mail.utoronto.ca.
 
 This paper and project was created as part of the course Eco225 (Big-Data Tools for Economists) at the University of Toronto taught by Professor Nazanin Khazra.
 
