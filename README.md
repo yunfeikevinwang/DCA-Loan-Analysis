@@ -14,7 +14,7 @@ For inquiries, please send to Yunfei Kevin Wang (the author) at keviny.wang@mail
 
 This paper and project was created as part of the course Eco225 (Big-Data Tools for Economists) at the University of Toronto taught by Professor Nazanin Khazra.
 
-It placed third in the 2023 [Tech-Econference](https://newsletter.economics.utoronto.ca/current-edition/the-third-annual-tech-econference/) organized by the Department of Economics at the University of Toronto.
+It placed third in the [2023 Tech-Econference](https://newsletter.economics.utoronto.ca/current-edition/the-third-annual-tech-econference/) organized by the Department of Economics at the University of Toronto.
 
 **Disclaimer:** This work represents a working paper and as such, it is primarily a reflection of the author's ongoing research. Consequently, it may not encompass all possible aspects of the topic at hand, and the information presented may be subject to revision or further verification. The views and opinions expressed herein are entirely those of the author and do not necessarily reflect those of any institution or organization with which the author is affiliated.
 
